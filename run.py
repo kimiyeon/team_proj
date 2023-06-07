@@ -1,0 +1,1 @@
+print('naoko is a student')
